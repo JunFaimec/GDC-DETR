@@ -32,7 +32,7 @@ timm==1.0.24
 ## 2. Usage
 ### 2.1 Data preparation
 
-![pipeline](./DGCDETR/S)
+![pipeline](./DGCDETR/IMCB_6_classes.jpg)
 
 We created a large traffic accident dataset called 4M-TAD containing frame-level labels standardized for unsupervised traffic accident detection.
 
