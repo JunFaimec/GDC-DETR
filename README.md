@@ -5,23 +5,31 @@
 
 ## 1. Dependencies
 ```
-python==3.6.13
-scipy==1.5.3
-tqdm==4.63.0
-yacs==0.1.8
-pyyaml==6.0.1
-requests==2.27.1
-protobuf==3.19.6
-torch==1.10.2+cu113
-opencv==4.5.3
-pillow==6.2.2
-matplotlib==3.3.4
-scikit-learn==0.24.2
-torchvision==0.11.3+cu113
-torchaudio==0.10.2+cu113
-torch-geometric==2.0.3
-numpy==1.19.5
-pandas==1.1.5
+
+grad-cam==1.5.4          
+ipykernel==7.1.0         
+ipython==8.38.0       
+numpy==2.2.6         
+opencv-python==4.13.0.90     
+pandas==2.3.3         
+pillow==12.1.0     
+pip==25.3          
+prettytable==3.17.0      
+psutil==7.2.2         
+python==3.10.19        
+scipy==1.15.3         
+setuptools==80.10.1        
+six==1.17.0       
+tensorboard==2.20.0        
+tensorboard-data-server==0.7.2       
+threadpoolctl==3.6.0      
+timm==1.0.24        
+tk==8.6.15         
+torch== 2.3.1+cu121      
+torchaudio==2.3.1+cu121     
+torchvision== 0.18.1+cu121   
+tornado== 6.5.4          
+tqdm==4.67.2         
 
 ```
 ## 2. Usage
