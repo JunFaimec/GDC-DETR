@@ -36,12 +36,16 @@ timm==1.0.24
 
 We construct the Inner Mongolia Cattle Behavior dataset, known as IMCB, which is the first refined multimodal agricultural dataset covering all-weather and multi-occlusion scenarios.
 
+Data will be made available on request.
+<!--
+
 As the paper is currently in the process of submitting, the dataset needs to be kept confidential for the time being, here we only disclose part of the dataset:
 
-[IMCB](https://drive.google.com/file/d/142zp6sD6WZ6RyWt0QTmOAmB7msLV8KVQ/view?usp=drive_link)
+[IMCB]()
 
 The full dataset will be updated after the acceptance of the article.
 
+-->
 ### 2.2 Train
 The paper is under review and now needs to be kept confidential.
 Code will be available soon.
