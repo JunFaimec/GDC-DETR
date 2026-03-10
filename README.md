@@ -5,7 +5,11 @@
 
 ## 1. Dependencies
 ```
-
+torch== 2.3.1+cu121      
+torchaudio==2.3.1+cu121     
+torchvision== 0.18.1+cu121   
+tornado== 6.5.4          
+tqdm==4.67.2     
 grad-cam==1.5.4          
 ipykernel==7.1.0         
 ipython==8.38.0       
@@ -24,13 +28,6 @@ tensorboard==2.20.0
 tensorboard-data-server==0.7.2       
 threadpoolctl==3.6.0      
 timm==1.0.24        
-tk==8.6.15         
-torch== 2.3.1+cu121      
-torchaudio==2.3.1+cu121     
-torchvision== 0.18.1+cu121   
-tornado== 6.5.4          
-tqdm==4.67.2         
-
 ```
 ## 2. Usage
 ### 2.1 Data preparation
